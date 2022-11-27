@@ -23,10 +23,10 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       
       //小魏
-      //id: 'oqmEU6dhfqiSy3W_jc7-mfZCkp7g',
+      id: 'oqmEU6dhfqiSy3W_jc7-mfZCkp7g',
       
       //小吕
-      id: 'oqmEU6STTbqZoZJbqLHLZRhabz20',
+      //id: 'oqmEU6STTbqZoZJbqLHLZRhabz20',
       
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'x8F82GiuDX3LJBLK_c-smFdhaNxZiSiD3zRp0P3eD34',
@@ -65,7 +65,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'JjH65nQ82761BvIkFdH8iUm5IEML3P8BXTnVy5h6sPk',
+  CALLBACK_TEMPLATE_ID: 'x8F82GiuDX3LJBLK_c-smFdhaNxZiSiD3zRp0P3eD34',
 
   CALLBACK_USERS: [
     {
